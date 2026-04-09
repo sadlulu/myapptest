@@ -1,0 +1,29 @@
+help me add to these bullet points, make them complete. An example is Achieved 2x LLM inference throughput and 30% p95 latency reduction for Scotiabank’s Chatbot by integrating
+Multi-Head Latent Attention (MLA) to shrink the attention cache and trim context windows from 40k to 10k tokens.
+
+Given:  Key Priorities / Updates:
+ • HR 
+• CIBC and Me Chatbot 
+• Strategic Workforce Planning 
+• PBB 
+• Marketing: Media Mix Modeling
+The CIBC Benchmark – Ideation
+ ▪ Benchmark LLMs and new AI tools on anonymous CIBC 
+domain data. POT at Vector bootcamp
+ Table Layout / Data Extraction - Completed
+ ▪ Github repo now available to all AAAI members
+ ▪ No access?visit EAAAI Github team
+ Technical Blogs
+ ▪ Continue to invite AI Scientists to share knowledge 
+through blogs. Recent blog: synthetic data as PETs, 
+Coming up: Agentic Orchestration
+
+ • Contact Center: AIVB,  
+SpeechAI, Dispute workflow  
+• Digital: IBM VA Chat Analyzer 
+• Capital Market
+ • French Translation: Structure 
+Notes
+ • CAO
+ • Procurement AI 
+• CAM Agent Performance
